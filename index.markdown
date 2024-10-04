@@ -10,7 +10,7 @@ title: "Mindful Month"
 # Mindful Month
 <p class="subtitle">Month of awareness, good habits, and self-love</p>
 
-Hi! I'm Ksenia, and this is my mindfulness project that I created with my friends in 2017. It started as a mailing list designed to teach people how to live a calm and happy life.
+Hi! I'm [Ksenia](https://kseniailinyh.github.io/), and this is my mindfulness project that I created with my friends in 2017. It started as a mailing list designed to teach people how to live a calm and happy life.
 
 Think of it as an advent calendar, but instead of sweets, you get a short, easy task for each day of the month. These tasks include meditating for 5 minutes, avoiding phone use for a day, practicing gratitude, and more. Many of these tasks have the potential to become lasting habits.
 
