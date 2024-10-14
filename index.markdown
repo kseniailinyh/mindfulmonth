@@ -8,7 +8,10 @@ title: "Mindful Month"
 ---
 
 # Mindful Month
+
 <p class="subtitle">Month of awareness, good habits, and self-love</p>
+
+![Alt text]({{ '/assets/images/09.jpg' | relative_url }})
 
 Hi! I'm [Ksenia](https://kseniailinyh.github.io/), and this is my mindfulness project that I created with my friends in 2017. It started as a mailing list designed to teach people how to live a calm and happy life.
 
